@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradu8&label=Profile%20views&color=0e75b6&style=flat" alt="mradu8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mradu8" alt="mradu8" /></a> </p>
-
 - 🔭 I’m currently working on [Maars Gym](MrAdu8/MaarsGym)
 
 - 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on [APIXpress](MrAdu8/APIXpress)
 
-- 👨‍💻 All of my projects are available at [github.com/MrAdu8](github.com/MrAdu8)
+- 👨‍💻 All of my projects are available at [Github](github.com/MrAdu8)
 
 - 💬 Ask me about **Express JS, MySQL**
 
