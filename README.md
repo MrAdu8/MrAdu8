@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **advaitparab5@gmail.com**
 
-- 📄 Know about my experiences [advait-parab.tiiny.site](advait-parab.tiiny.site)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1sOTR5zBby6gCH7iY855RfIsGq4pSiMMf/view?usp=sharing])
 
 - ⚡ Fun fact **I am a Gym Lover**
 
